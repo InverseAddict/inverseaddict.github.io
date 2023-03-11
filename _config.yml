@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harsh Goyal"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Harsh Goyal"
 description              : &description "CS Grad Student at Georgia Tech"
